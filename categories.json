@@ -1,0 +1,5065 @@
+{
+  "categories": {
+    "Authentication & Access": {
+      "tags": [
+        "secure-shell",
+        "password",
+        "multi-factor-authentication",
+        "two-factor-authentication",
+        "certificate",
+        "public-key-infrastructure",
+        "lightweight-directory-access-protocol",
+        "active-directory",
+        "single-sign-on",
+        "oauth",
+        "biometric",
+        "token"
+      ],
+      "keywords": {
+        "secure-shell": [
+          "secure shell",
+          "ssh"
+        ],
+        "password": [
+          "password",
+          "passwords",
+          "passphrase",
+          "credential",
+          "credentials"
+        ],
+        "multi-factor-authentication": [
+          "multi-factor authentication",
+          "multi-factor",
+          "multifactor",
+          "mfa",
+          "authenticating",
+          "user authentication",
+          "device authentication",
+          "service authentication",
+          "authenticate users",
+          "authenticate devices",
+          "authenticate services"
+        ],
+        "two-factor-authentication": [
+          "two-factor authentication",
+          "two-factor",
+          "two factor",
+          "2fa",
+          "second factor",
+          "additional factor"
+        ],
+        "certificate": [
+          "certificate",
+          "certificates",
+          "cert",
+          "x.509"
+        ],
+        "public-key-infrastructure": [
+          "public key infrastructure",
+          "pki"
+        ],
+        "lightweight-directory-access-protocol": [
+          "lightweight directory access protocol",
+          "ldap",
+          "lightweight directory"
+        ],
+        "active-directory": [
+          "active directory",
+          "ad",
+          "domain controller"
+        ],
+        "single-sign-on": [
+          "single sign-on",
+          "sso",
+          "federation",
+          "federated authentication"
+        ],
+        "oauth": [
+          "oauth",
+          "openid"
+        ],
+        "biometric": [
+          "biometric",
+          "fingerprint",
+          "facial recognition"
+        ],
+        "token": [
+          "token",
+          "security token",
+          "hardware token"
+        ]
+      }
+    },
+    "Encryption & Data": {
+      "tags": [
+        "encryption",
+        "transport-layer-security",
+        "secure-socket-layer",
+        "virtual-private-network",
+        "at-rest",
+        "in-transit",
+        "key-management",
+        "hardware-security-module",
+        "personally-identifiable-information",
+        "data-classification"
+      ],
+      "keywords": {
+        "encryption": [
+          "encrypt",
+          "encryption",
+          "encrypted",
+          "encrypting",
+          "cipher",
+          "cryptographic",
+          "encryption algorithm",
+          "encryption key",
+          "encrypted data",
+          "encrypted communications",
+          "encrypted connections",
+          "cryptographic algorithm",
+          "cryptographic key",
+          "cryptographic material"
+        ],
+        "transport-layer-security": [
+          "transport layer security",
+          "tls",
+          "tls connection",
+          "tls connections",
+          "tls session",
+          "tls sessions",
+          "tls version",
+          "tls protocol",
+          "tls cipher",
+          "tls ciphers"
+        ],
+        "secure-socket-layer": [
+          "secure socket layer",
+          "ssl",
+          "secure socket"
+        ],
+        "virtual-private-network": [
+          "virtual private network",
+          "vpn",
+          "vpn connection",
+          "vpn connections",
+          "vpn tunnel",
+          "vpn tunnels",
+          "vpn gateway",
+          "vpn service"
+        ],
+        "at-rest": [
+          "data at rest",
+          "encryption at rest"
+        ],
+        "in-transit": [
+          "data in transit",
+          "encryption in transit"
+        ],
+        "key-management": [
+          "key management",
+          "key rotation",
+          "cryptographic key"
+        ],
+        "hardware-security-module": [
+          "hardware security module",
+          "hsm"
+        ],
+        "personally-identifiable-information": [
+          "personally identifiable information",
+          "personally identifiable",
+          "personal data",
+          "pii"
+        ],
+        "data-classification": [
+          "data classification",
+          "classified data",
+          "classification"
+        ]
+      }
+    },
+    "Network Security": {
+      "tags": [
+        "firewall",
+        "intrusion-detection",
+        "intrusion-prevention",
+        "network-segmentation",
+        "dmz",
+        "proxy",
+        "wireless",
+        "wifi"
+      ],
+      "keywords": {
+        "firewall": [
+          "firewall",
+          "network filter",
+          "network security"
+        ],
+        "intrusion-detection": [
+          "intrusion detection",
+          "intrusion detection system"
+        ],
+        "intrusion-prevention": [
+          "intrusion prevention",
+          "intrusion prevention system"
+        ],
+        "network-segmentation": [
+          "network segmentation",
+          "network isolation"
+        ],
+        "dmz": [
+          "demilitarized zone"
+        ],
+        "proxy": [
+          "proxy server"
+        ],
+        "wireless": [
+          "wireless",
+          "wlan",
+          "wireless network"
+        ],
+        "wifi": [
+          "wi-fi",
+          "wireless network"
+        ]
+      }
+    },
+    "Operating Systems & Platforms": {
+      "tags": [
+        "windows",
+        "linux",
+        "macos",
+        "unix",
+        "ios",
+        "android",
+        "server-os",
+        "embedded-systems",
+        "firmware"
+      ],
+      "keywords": {
+        "windows": [
+          "windows",
+          "microsoft windows",
+          "windows server"
+        ],
+        "linux": [
+          "linux",
+          "ubuntu",
+          "red hat",
+          "centos",
+          "debian"
+        ],
+        "macos": [
+          "macos",
+          "mac os",
+          "apple",
+          "darwin"
+        ],
+        "unix": [
+          "unix",
+          "aix",
+          "solaris",
+          "hp-ux"
+        ],
+        "ios": [
+          "ios",
+          "iphone os"
+        ],
+        "android": [
+          "android"
+        ],
+        "server-os": [
+          "server operating system",
+          "server os"
+        ],
+        "embedded-systems": [
+          "embedded system",
+          "embedded device",
+          "iot device"
+        ],
+        "firmware": [
+          "firmware",
+          "bios",
+          "uefi"
+        ]
+      }
+    },
+    "Database Systems": {
+      "tags": [
+        "database",
+        "sql-database",
+        "nosql",
+        "database-security",
+        "database-access",
+        "data-warehouse",
+        "database-backup"
+      ],
+      "keywords": {
+        "database": [
+          "database",
+          "dbms",
+          "database management",
+          "database server",
+          "database servers",
+          "database management system",
+          "database contents"
+        ],
+        "sql-database": [
+          "sql database",
+          "relational database",
+          "mysql",
+          "postgresql",
+          "sql server",
+          "oracle database"
+        ],
+        "nosql": [
+          "nosql",
+          "mongodb",
+          "cassandra",
+          "document database"
+        ],
+        "database-security": [
+          "database security",
+          "database protection"
+        ],
+        "database-access": [
+          "database access",
+          "database permissions",
+          "database user"
+        ],
+        "data-warehouse": [
+          "data warehouse",
+          "data warehouse"
+        ],
+        "database-backup": [
+          "database backup",
+          "db backup"
+        ]
+      }
+    },
+    "Web & Application Servers": {
+      "tags": [
+        "web-server",
+        "application-server",
+        "load-balancer",
+        "reverse-proxy",
+        "content-delivery-network",
+        "internet-information-services",
+        "apache",
+        "nginx"
+      ],
+      "keywords": {
+        "web-server": [
+          "web server",
+          "http server"
+        ],
+        "application-server": [
+          "application server",
+          "app server"
+        ],
+        "load-balancer": [
+          "load balancer",
+          "load balancing"
+        ],
+        "reverse-proxy": [
+          "reverse proxy"
+        ],
+        "content-delivery-network": [
+          "content delivery network",
+          "cdn"
+        ],
+        "internet-information-services": [
+          "internet information services",
+          "iis"
+        ],
+        "apache": [
+          "apache http server",
+          "apache"
+        ],
+        "nginx": [
+          "nginx"
+        ]
+      }
+    },
+    "Network Devices & Infrastructure": {
+      "tags": [
+        "router",
+        "switch",
+        "network-appliance",
+        "network-protocol",
+        "tcp-ip",
+        "network-topology",
+        "network-monitoring"
+      ],
+      "keywords": {
+        "router": [
+          "router",
+          "routing"
+        ],
+        "switch": [
+          "switch",
+          "network switch",
+          "switching"
+        ],
+        "network-appliance": [
+          "network appliance",
+          "network device"
+        ],
+        "network-protocol": [
+          "network protocol",
+          "protocol"
+        ],
+        "tcp-ip": [
+          "tcp ip",
+          "tcp/ip",
+          "transmission control protocol"
+        ],
+        "network-topology": [
+          "network topology",
+          "network architecture"
+        ],
+        "network-monitoring": [
+          "network monitoring",
+          "network management"
+        ]
+      }
+    },
+    "Directory & Identity Services": {
+      "tags": [
+        "identity-management",
+        "privileged-access",
+        "role-based-access-control",
+        "attribute-based-access-control",
+        "privileged-access-management",
+        "identity-and-access-management",
+        "directory-service"
+      ],
+      "keywords": {
+        "identity-management": [
+          "identity management",
+          "idm"
+        ],
+        "privileged-access": [
+          "privileged access",
+          "privileged account",
+          "admin account"
+        ],
+        "role-based-access-control": [
+          "role based access control",
+          "role-based access control",
+          "rbac"
+        ],
+        "attribute-based-access-control": [
+          "attribute based access control",
+          "attribute-based access control",
+          "abac"
+        ],
+        "privileged-access-management": [
+          "privileged access management",
+          "pam"
+        ],
+        "identity-and-access-management": [
+          "identity and access management",
+          "iam"
+        ],
+        "directory-service": [
+          "directory service",
+          "directory"
+        ]
+      }
+    },
+    "Industrial & Critical Systems": {
+      "tags": [
+        "industrial-control-system",
+        "scada",
+        "industrial-control",
+        "critical-infrastructure",
+        "operational-technology",
+        "operational-technology-security"
+      ],
+      "keywords": {
+        "industrial-control-system": [
+          "industrial control system",
+          "ics"
+        ],
+        "scada": [
+          "scada",
+          "supervisory control",
+          "supervisory control and data acquisition"
+        ],
+        "industrial-control": [
+          "industrial control",
+          "industrial system"
+        ],
+        "critical-infrastructure": [
+          "critical infrastructure",
+          "critical system"
+        ],
+        "operational-technology": [
+          "operational technology",
+          "ot"
+        ],
+        "operational-technology-security": [
+          "operational technology security",
+          "ot security"
+        ]
+      }
+    },
+    "Data Systems & Storage": {
+      "tags": [
+        "data-storage",
+        "data-retention",
+        "data-destruction",
+        "data-loss-prevention",
+        "data-governance",
+        "storage-area-network",
+        "network-attached-storage"
+      ],
+      "keywords": {
+        "data-storage": [
+          "data storage",
+          "storage system",
+          "storage"
+        ],
+        "data-retention": [
+          "data retention",
+          "retention policy",
+          "retention period"
+        ],
+        "data-destruction": [
+          "data destruction",
+          "secure deletion",
+          "data disposal"
+        ],
+        "data-loss-prevention": [
+          "data loss prevention",
+          "dlp"
+        ],
+        "data-governance": [
+          "data governance"
+        ],
+        "storage-area-network": [
+          "storage area network",
+          "san"
+        ],
+        "network-attached-storage": [
+          "network attached storage",
+          "nas"
+        ]
+      }
+    },
+    "System Hardening & Configuration": {
+      "tags": [
+        "system-hardening",
+        "security-baseline",
+        "security-configuration",
+        "least-privilege",
+        "default-credentials",
+        "security-hardening"
+      ],
+      "keywords": {
+        "system-hardening": [
+          "system hardening",
+          "hardening",
+          "hardened",
+          "hardened using",
+          "hardening guidance",
+          "security hardening"
+        ],
+        "security-baseline": [
+          "security baseline",
+          "baseline configuration"
+        ],
+        "security-configuration": [
+          "security configuration",
+          "secure configuration"
+        ],
+        "least-privilege": [
+          "least privilege",
+          "principle of least privilege"
+        ],
+        "default-credentials": [
+          "default credentials",
+          "default password",
+          "factory default"
+        ],
+        "security-hardening": [
+          "security hardening",
+          "hardening",
+          "hardened",
+          "hardened using",
+          "hardening guidance"
+        ]
+      }
+    },
+    "Access Control Systems": {
+      "tags": [
+        "zero-trust",
+        "network-access-control",
+        "privileged-access-management",
+        "just-in-time-access",
+        "access-review"
+      ],
+      "keywords": {
+        "zero-trust": [
+          "zero trust",
+          "zero-trust"
+        ],
+        "network-access-control": [
+          "network access control",
+          "nac"
+        ],
+        "privileged-access-management": [
+          "privileged access management"
+        ],
+        "just-in-time-access": [
+          "just in time access",
+          "jit access",
+          "just-in-time access"
+        ],
+        "access-review": [
+          "access review",
+          "access recertification"
+        ]
+      }
+    },
+    "Security Operations & Testing": {
+      "tags": [
+        "threat-detection",
+        "threat-intelligence",
+        "security-operations-center",
+        "penetration-testing",
+        "red-team",
+        "blue-team",
+        "security-testing",
+        "vulnerability-scanning"
+      ],
+      "keywords": {
+        "threat-detection": [
+          "threat detection",
+          "threat hunting"
+        ],
+        "threat-intelligence": [
+          "threat intelligence",
+          "cyber threat intelligence"
+        ],
+        "security-operations-center": [
+          "security operations center",
+          "soc"
+        ],
+        "penetration-testing": [
+          "penetration testing",
+          "pen test",
+          "pentest"
+        ],
+        "red-team": [
+          "red team",
+          "red teaming"
+        ],
+        "blue-team": [
+          "blue team",
+          "blue teaming"
+        ],
+        "security-testing": [
+          "security testing",
+          "security assessment"
+        ],
+        "vulnerability-scanning": [
+          "vulnerability scanning",
+          "vulnerability assessment"
+        ]
+      }
+    },
+    "System Lifecycle & Management": {
+      "tags": [
+        "system-development",
+        "system-deployment",
+        "system-decommissioning",
+        "asset-management",
+        "inventory",
+        "lifecycle-management"
+      ],
+      "keywords": {
+        "system-development": [
+          "system development",
+          "development lifecycle"
+        ],
+        "system-deployment": [
+          "system deployment",
+          "deployment"
+        ],
+        "system-decommissioning": [
+          "system decommissioning",
+          "decommission",
+          "system retirement"
+        ],
+        "asset-management": [
+          "asset management",
+          "it asset management"
+        ],
+        "inventory": [
+          "inventory",
+          "asset inventory"
+        ],
+        "lifecycle-management": [
+          "lifecycle management",
+          "system lifecycle"
+        ]
+      }
+    },
+    "Network Protocols & Services": {
+      "tags": [
+        "http",
+        "https",
+        "file-transfer-protocol",
+        "secure-file-transfer-protocol",
+        "remote-desktop-protocol",
+        "telnet",
+        "simple-network-management-protocol",
+        "network-time-protocol",
+        "syslog"
+      ],
+      "keywords": {
+        "http": [
+          "http",
+          "hypertext transfer protocol"
+        ],
+        "https": [
+          "https",
+          "http secure"
+        ],
+        "file-transfer-protocol": [
+          "file transfer protocol",
+          "ftp"
+        ],
+        "secure-file-transfer-protocol": [
+          "secure file transfer protocol",
+          "sftp",
+          "secure file transfer"
+        ],
+        "remote-desktop-protocol": [
+          "remote desktop protocol",
+          "rdp"
+        ],
+        "telnet": [
+          "telnet"
+        ],
+        "simple-network-management-protocol": [
+          "simple network management protocol",
+          "snmp"
+        ],
+        "network-time-protocol": [
+          "network time protocol",
+          "ntp"
+        ],
+        "syslog": [
+          "syslog",
+          "system log"
+        ]
+      }
+    },
+    "Security Services & Tools": {
+      "tags": [
+        "antivirus",
+        "anti-malware",
+        "endpoint-detection-and-response",
+        "extended-detection-and-response",
+        "sandbox",
+        "threat-hunting",
+        "security-analytics"
+      ],
+      "keywords": {
+        "antivirus": [
+          "antivirus",
+          "anti-virus"
+        ],
+        "anti-malware": [
+          "anti-malware",
+          "antimalware"
+        ],
+        "endpoint-detection-and-response": [
+          "endpoint detection and response",
+          "edr"
+        ],
+        "extended-detection-and-response": [
+          "extended detection and response",
+          "xdr"
+        ],
+        "sandbox": [
+          "sandbox",
+          "sandboxing"
+        ],
+        "threat-hunting": [
+          "threat hunting",
+          "threat hunt"
+        ],
+        "security-analytics": [
+          "security analytics",
+          "security analysis"
+        ]
+      }
+    },
+    "Data Protection & Privacy": {
+      "tags": [
+        "general-data-protection-regulation",
+        "privacy",
+        "data-protection",
+        "data-minimization",
+        "consent-management",
+        "right-to-be-forgotten"
+      ],
+      "keywords": {
+        "general-data-protection-regulation": [
+          "general data protection regulation",
+          "gdpr"
+        ],
+        "privacy": [
+          "privacy",
+          "privacy protection"
+        ],
+        "data-protection": [
+          "data protection"
+        ],
+        "data-minimization": [
+          "data minimization",
+          "minimize data"
+        ],
+        "consent-management": [
+          "consent management",
+          "user consent"
+        ],
+        "right-to-be-forgotten": [
+          "right to be forgotten",
+          "data erasure"
+        ]
+      }
+    },
+    "Business Continuity": {
+      "tags": [
+        "business-continuity",
+        "disaster-recovery-planning",
+        "failover",
+        "redundancy",
+        "high-availability",
+        "recovery-point-objective",
+        "recovery-time-objective"
+      ],
+      "keywords": {
+        "business-continuity": [
+          "business continuity",
+          "business continuity planning"
+        ],
+        "disaster-recovery-planning": [
+          "disaster recovery planning",
+          "dr planning"
+        ],
+        "failover": [
+          "failover",
+          "fail over"
+        ],
+        "redundancy": [
+          "redundancy",
+          "redundant"
+        ],
+        "high-availability": [
+          "high availability",
+          "ha"
+        ],
+        "recovery-point-objective": [
+          "recovery point objective"
+        ],
+        "recovery-time-objective": [
+          "recovery time objective"
+        ]
+      }
+    },
+    "Cloud & Infrastructure": {
+      "tags": [
+        "cloud",
+        "aws",
+        "azure",
+        "gcp",
+        "saas",
+        "iaas",
+        "paas",
+        "containers",
+        "kubernetes",
+        "docker",
+        "virtualization"
+      ],
+      "keywords": {
+        "cloud": [
+          "cloud",
+          "cloud computing",
+          "cloud service",
+          "cloud services",
+          "cloud provider",
+          "cloud providers",
+          "outsourced cloud",
+          "cloud-based"
+        ],
+        "aws": [
+          "amazon web services",
+          "aws"
+        ],
+        "azure": [
+          "microsoft azure",
+          "azure"
+        ],
+        "gcp": [
+          "google cloud",
+          "gcp",
+          "google cloud platform"
+        ],
+        "saas": [
+          "software as a service",
+          "saas"
+        ],
+        "iaas": [
+          "infrastructure as a service",
+          "iaas"
+        ],
+        "paas": [
+          "platform as a service",
+          "paas"
+        ],
+        "containers": [
+          "container",
+          "containers",
+          "containerized"
+        ],
+        "kubernetes": [
+          "kubernetes",
+          "k8s"
+        ],
+        "docker": [
+          "docker"
+        ],
+        "virtualization": [
+          "virtualization",
+          "virtual machine",
+          "hypervisor"
+        ]
+      }
+    },
+    "Application Security": {
+      "tags": [
+        "web-app",
+        "application-programming-interface",
+        "sql-injection",
+        "cross-site-scripting",
+        "cross-site-request-forgery",
+        "owasp",
+        "static-analysis",
+        "dynamic-analysis",
+        "code-review"
+      ],
+      "keywords": {
+        "web-app": [
+          "web application",
+          "web applications",
+          "web app",
+          "webapp",
+          "web-based application",
+          "web application session",
+          "web application security"
+        ],
+        "application-programming-interface": [
+          "application programming interface",
+          "rest api",
+          "api",
+          "web api"
+        ],
+        "sql-injection": [
+          "sql injection",
+          "sqli"
+        ],
+        "cross-site-scripting": [
+          "cross-site scripting",
+          "xss"
+        ],
+        "cross-site-request-forgery": [
+          "cross-site request forgery",
+          "csrf"
+        ],
+        "owasp": [
+          "owasp"
+        ],
+        "static-analysis": [
+          "static analysis",
+          "sast"
+        ],
+        "dynamic-analysis": [
+          "dynamic analysis",
+          "dast"
+        ],
+        "code-review": [
+          "code review",
+          "peer review"
+        ]
+      }
+    },
+    "Monitoring & Logging": {
+      "tags": [
+        "logging",
+        "siem",
+        "monitoring",
+        "audit",
+        "compliance",
+        "forensics",
+        "incident-response"
+      ],
+      "keywords": {
+        "logging": [
+          "log",
+          "logging",
+          "audit log",
+          "logs",
+          "event logs",
+          "event logging",
+          "audit logs",
+          "security logs",
+          "log analysis",
+          "log management",
+          "log retention"
+        ],
+        "siem": [
+          "security information",
+          "event management",
+          "siem"
+        ],
+        "monitoring": [
+          "monitor",
+          "monitoring",
+          "monitored",
+          "surveillance",
+          "monitoring system",
+          "monitoring systems",
+          "security monitoring",
+          "network monitoring",
+          "system monitoring"
+        ],
+        "audit": [
+          "audit",
+          "auditing",
+          "audited"
+        ],
+        "compliance": [
+          "compliance",
+          "compliant"
+        ],
+        "forensics": [
+          "forensic",
+          "forensics",
+          "digital forensics"
+        ],
+        "incident-response": [
+          "incident response",
+          "incident handling",
+          "cyber security incident",
+          "security incident",
+          "incident management",
+          "incident response plan"
+        ]
+      }
+    },
+    "System Management": {
+      "tags": [
+        "patching",
+        "updates",
+        "vulnerability-management",
+        "backup",
+        "disaster-recovery",
+        "change-management",
+        "configuration-management"
+      ],
+      "keywords": {
+        "patching": [
+          "patch",
+          "patching",
+          "patched",
+          "patches are",
+          "patches, updates",
+          "security patch",
+          "security patches",
+          "security update",
+          "security updates",
+          "vendor patches",
+          "vendor updates",
+          "vendor mitigations",
+          "patching process"
+        ],
+        "updates": [
+          "update",
+          "updates",
+          "software update",
+          "patches, updates"
+        ],
+        "vulnerability-management": [
+          "vulnerability",
+          "vulnerabilities",
+          "vulnerable",
+          "vulnerabilities are",
+          "vulnerabilities in",
+          "vulnerability assessment",
+          "vulnerability scanning",
+          "vulnerability management"
+        ],
+        "backup": [
+          "backup",
+          "back up",
+          "data backup",
+          "backups",
+          "backups are",
+          "backups of",
+          "backup system",
+          "backup systems",
+          "backup administrator",
+          "backup administrators",
+          "backup data",
+          "backup and restore",
+          "backup and recovery"
+        ],
+        "disaster-recovery": [
+          "disaster recovery",
+          "disaster recovery plan",
+          "disaster recovery plans",
+          "disaster recovery planning",
+          "business continuity",
+          "business continuity plan",
+          "business continuity planning"
+        ],
+        "change-management": [
+          "change management",
+          "change control"
+        ],
+        "configuration-management": [
+          "configuration management",
+          "config management"
+        ]
+      }
+    },
+    "Email & Communication": {
+      "tags": [
+        "email",
+        "phishing",
+        "spam",
+        "dmarc",
+        "sender-policy-framework",
+        "domainkeys-identified-mail",
+        "messaging"
+      ],
+      "keywords": {
+        "email": [
+          "email",
+          "e-mail",
+          "email system",
+          "email systems",
+          "mail server",
+          "mail servers",
+          "email security",
+          "email communications",
+          "smtp",
+          "imap",
+          "pop"
+        ],
+        "phishing": [
+          "phishing",
+          "phish"
+        ],
+        "spam": [
+          "spam",
+          "spamming"
+        ],
+        "dmarc": [
+          "dmarc",
+          "domain-based message authentication"
+        ],
+        "sender-policy-framework": [
+          "sender policy framework",
+          "spf"
+        ],
+        "domainkeys-identified-mail": [
+          "domainkeys identified mail",
+          "dkim",
+          "domainkeys"
+        ],
+        "messaging": [
+          "messaging",
+          "instant messaging",
+          "chat"
+        ]
+      }
+    },
+    "Mobile & Endpoint": {
+      "tags": [
+        "mobile",
+        "mobile-phones",
+        "endpoint",
+        "mobile-device-management",
+        "device-management",
+        "usb",
+        "removable-media"
+      ],
+      "keywords": {
+        "mobile": [
+          "mobile",
+          "mobile device",
+          "mobile devices",
+          "mobile computing",
+          "mobile platform",
+          "smartphone",
+          "tablet",
+          "ios device",
+          "android device"
+        ],
+        "mobile-phones": [
+          "mobile phone",
+          "mobile phones",
+          "cell phone",
+          "cell phones",
+          "cellular phone",
+          "cellular phones",
+          "smartphone",
+          "smartphones",
+          "iphone",
+          "android phone"
+        ],
+        "endpoint": [
+          "endpoint",
+          "endpoints",
+          "workstation"
+        ],
+        "mobile-device-management": [
+          "mobile device management",
+          "mdm"
+        ],
+        "device-management": [
+          "device management",
+          "device control"
+        ],
+        "usb": [
+          "usb device",
+          "removable storage"
+        ],
+        "removable-media": [
+          "removable media",
+          "external storage",
+          "flash drive"
+        ]
+      }
+    },
+    "Physical Security": {
+      "tags": [
+        "physical-security",
+        "server-room",
+        "communications-room",
+        "security-container",
+        "security-zone",
+        "facility-security",
+        "access-control",
+        "visitor-management",
+        "surveillance",
+        "escort",
+        "cable-reticulation"
+      ],
+      "keywords": {
+        "physical-security": [
+          "physical security",
+          "physical access",
+          "physical barrier",
+          "physical barriers"
+        ],
+        "server-room": [
+          "server room",
+          "server rooms"
+        ],
+        "communications-room": [
+          "communications room",
+          "communications rooms"
+        ],
+        "security-container": [
+          "security container",
+          "security containers"
+        ],
+        "security-zone": [
+          "security zone",
+          "security zones",
+          "secure area",
+          "secure areas",
+          "restricted area",
+          "restricted areas"
+        ],
+        "facility-security": [
+          "facility",
+          "facilities",
+          "secure facility",
+          "secure facilities",
+          "classified facility",
+          "classified facilities",
+          "premises",
+          "building",
+          "buildings"
+        ],
+        "access-control": [
+          "access control",
+          "physical access control",
+          "access mechanism",
+          "access mechanisms",
+          "key",
+          "keys",
+          "keycard",
+          "keycards",
+          "badge",
+          "badges",
+          "card reader",
+          "card readers"
+        ],
+        "visitor-management": [
+          "visitor",
+          "visitors",
+          "visitor management",
+          "visitor log"
+        ],
+        "surveillance": [
+          "cctv",
+          "video surveillance",
+          "camera",
+          "cameras",
+          "surveillance"
+        ],
+        "escort": [
+          "escort",
+          "escorted",
+          "tailgating",
+          "piggybacking"
+        ],
+        "cable-reticulation": [
+          "cable reticulation",
+          "cable reticulation system",
+          "cable reticulation systems"
+        ]
+      }
+    },
+    "Governance & Compliance": {
+      "tags": [
+        "governance",
+        "risk-management",
+        "policies",
+        "procedures",
+        "training",
+        "awareness"
+      ],
+      "keywords": {
+        "governance": [
+          "governance",
+          "it governance"
+        ],
+        "risk-management": [
+          "risk management",
+          "risk assessment"
+        ],
+        "policies": [
+          "policy",
+          "policies"
+        ],
+        "procedures": [
+          "procedure",
+          "procedures"
+        ],
+        "training": [
+          "training",
+          "security training"
+        ],
+        "awareness": [
+          "awareness",
+          "security awareness"
+        ]
+      }
+    }
+  },
+  "ism_tags": {
+    "ISM-0009": [
+      "protect"
+    ],
+    "ISM-0027": [
+      "access-control",
+      "protect"
+    ],
+    "ISM-0039": [
+      "protect"
+    ],
+    "ISM-0041": [
+      "recover"
+    ],
+    "ISM-0042": [
+      "govern"
+    ],
+    "ISM-0043": [
+      "respond",
+      "incident-response"
+    ],
+    "ISM-0047": [
+      "protect"
+    ],
+    "ISM-0072": [
+      "govern"
+    ],
+    "ISM-0078": [
+      "protect"
+    ],
+    "ISM-0100": [
+      "protect"
+    ],
+    "ISM-0109": [
+      "detect",
+      "logging"
+    ],
+    "ISM-0120": [
+      "protect"
+    ],
+    "ISM-0123": [
+      "respond"
+    ],
+    "ISM-0125": [
+      "respond",
+      "incident-response"
+    ],
+    "ISM-0133": [
+      "protect"
+    ],
+    "ISM-0137": [
+      "protect"
+    ],
+    "ISM-0138": [
+      "protect"
+    ],
+    "ISM-0140": [
+      "respond"
+    ],
+    "ISM-0141": [
+      "respond"
+    ],
+    "ISM-0142": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0161": [
+      "protect"
+    ],
+    "ISM-0164": [
+      "endpoint",
+      "protect"
+    ],
+    "ISM-0181": [
+      "govern"
+    ],
+    "ISM-0187": [
+      "protect"
+    ],
+    "ISM-0194": [
+      "protect"
+    ],
+    "ISM-0195": [
+      "protect"
+    ],
+    "ISM-0198": [
+      "protect"
+    ],
+    "ISM-0201": [
+      "protect"
+    ],
+    "ISM-0206": [
+      "govern"
+    ],
+    "ISM-0208": [
+      "data-classification",
+      "identify"
+    ],
+    "ISM-0211": [
+      "identify"
+    ],
+    "ISM-0213": [
+      "patching",
+      "protect"
+    ],
+    "ISM-0216": [
+      "patching",
+      "protect"
+    ],
+    "ISM-0217": [
+      "patching",
+      "protect"
+    ],
+    "ISM-0218": [
+      "protect"
+    ],
+    "ISM-0225": [
+      "protect"
+    ],
+    "ISM-0229": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0230": [
+      "protect"
+    ],
+    "ISM-0231": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0232": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0233": [
+      "protect"
+    ],
+    "ISM-0235": [
+      "protect"
+    ],
+    "ISM-0236": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0240": [
+      "data-classification",
+      "protect",
+      "messaging"
+    ],
+    "ISM-0245": [
+      "protect"
+    ],
+    "ISM-0246": [
+      "identify"
+    ],
+    "ISM-0249": [
+      "protect"
+    ],
+    "ISM-0250": [
+      "govern"
+    ],
+    "ISM-0252": [
+      "respond"
+    ],
+    "ISM-0258": [
+      "govern"
+    ],
+    "ISM-0260": [
+      "protect"
+    ],
+    "ISM-0261": [
+      "protect"
+    ],
+    "ISM-0263": [
+      "tls",
+      "protect"
+    ],
+    "ISM-0264": [
+      "govern",
+      "email"
+    ],
+    "ISM-0267": [
+      "protect"
+    ],
+    "ISM-0269": [
+      "protect",
+      "email"
+    ],
+    "ISM-0270": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0271": [
+      "protect"
+    ],
+    "ISM-0272": [
+      "protect"
+    ],
+    "ISM-0280": [
+      "protect"
+    ],
+    "ISM-0285": [
+      "govern"
+    ],
+    "ISM-0286": [
+      "govern"
+    ],
+    "ISM-0289": [
+      "protect"
+    ],
+    "ISM-0290": [
+      "protect"
+    ],
+    "ISM-0293": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0294": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0296": [
+      "protect"
+    ],
+    "ISM-0298": [
+      "patching",
+      "protect"
+    ],
+    "ISM-0300": [
+      "protect"
+    ],
+    "ISM-0304": [
+      "protect",
+      "email"
+    ],
+    "ISM-0305": [
+      "protect"
+    ],
+    "ISM-0306": [
+      "govern"
+    ],
+    "ISM-0307": [
+      "protect"
+    ],
+    "ISM-0310": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0311": [
+      "protect"
+    ],
+    "ISM-0312": [
+      "protect"
+    ],
+    "ISM-0313": [
+      "govern"
+    ],
+    "ISM-0315": [
+      "protect"
+    ],
+    "ISM-0316": [
+      "protect"
+    ],
+    "ISM-0317": [
+      "protect"
+    ],
+    "ISM-0318": [
+      "protect"
+    ],
+    "ISM-0321": [
+      "govern"
+    ],
+    "ISM-0323": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0325": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0330": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0332": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0336": [
+      "identify"
+    ],
+    "ISM-0337": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0341": [
+      "protect"
+    ],
+    "ISM-0343": [
+      "access-control",
+      "protect"
+    ],
+    "ISM-0345": [
+      "protect"
+    ],
+    "ISM-0347": [
+      "protect"
+    ],
+    "ISM-0348": [
+      "govern"
+    ],
+    "ISM-0350": [
+      "protect"
+    ],
+    "ISM-0351": [
+      "protect"
+    ],
+    "ISM-0352": [
+      "protect"
+    ],
+    "ISM-0354": [
+      "protect"
+    ],
+    "ISM-0356": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0357": [
+      "protect"
+    ],
+    "ISM-0358": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0359": [
+      "protect"
+    ],
+    "ISM-0360": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0361": [
+      "protect"
+    ],
+    "ISM-0362": [
+      "protect"
+    ],
+    "ISM-0363": [
+      "govern"
+    ],
+    "ISM-0368": [
+      "protect"
+    ],
+    "ISM-0370": [
+      "protect"
+    ],
+    "ISM-0371": [
+      "protect"
+    ],
+    "ISM-0372": [
+      "protect"
+    ],
+    "ISM-0373": [
+      "protect"
+    ],
+    "ISM-0374": [
+      "govern"
+    ],
+    "ISM-0375": [
+      "protect"
+    ],
+    "ISM-0378": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0380": [
+      "protect"
+    ],
+    "ISM-0382": [
+      "protect"
+    ],
+    "ISM-0383": [
+      "protect"
+    ],
+    "ISM-0385": [
+      "protect"
+    ],
+    "ISM-0393": [
+      "data-classification",
+      "identify"
+    ],
+    "ISM-0400": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-0401": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-0402": [
+      "protect"
+    ],
+    "ISM-0405": [
+      "protect"
+    ],
+    "ISM-0407": [
+      "govern"
+    ],
+    "ISM-0408": [
+      "protect"
+    ],
+    "ISM-0409": [
+      "protect"
+    ],
+    "ISM-0411": [
+      "protect"
+    ],
+    "ISM-0414": [
+      "protect"
+    ],
+    "ISM-0415": [
+      "protect"
+    ],
+    "ISM-0417": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-0418": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-0420": [
+      "protect"
+    ],
+    "ISM-0421": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-0422": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-0428": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-0430": [
+      "protect"
+    ],
+    "ISM-0432": [
+      "protect"
+    ],
+    "ISM-0434": [
+      "govern"
+    ],
+    "ISM-0435": [
+      "protect"
+    ],
+    "ISM-0441": [
+      "protect"
+    ],
+    "ISM-0443": [
+      "protect"
+    ],
+    "ISM-0445": [
+      "protect",
+      "privileged-access"
+    ],
+    "ISM-0446": [
+      "protect",
+      "privileged-access"
+    ],
+    "ISM-0447": [
+      "protect",
+      "privileged-access"
+    ],
+    "ISM-0455": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0457": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0459": [
+      "at-rest",
+      "encryption",
+      "protect"
+    ],
+    "ISM-0460": [
+      "protect"
+    ],
+    "ISM-0462": [
+      "data-classification",
+      "encryption",
+      "protect"
+    ],
+    "ISM-0465": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0467": [
+      "protect"
+    ],
+    "ISM-0469": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0471": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0472": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0474": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0475": [
+      "protect"
+    ],
+    "ISM-0476": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0477": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0479": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0481": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0484": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-0485": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-0487": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-0488": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-0489": [
+      "protect"
+    ],
+    "ISM-0490": [
+      "protect"
+    ],
+    "ISM-0494": [
+      "protect"
+    ],
+    "ISM-0496": [
+      "authentication",
+      "encryption",
+      "protect"
+    ],
+    "ISM-0498": [
+      "protect"
+    ],
+    "ISM-0499": [
+      "govern"
+    ],
+    "ISM-0501": [
+      "data-classification",
+      "encryption",
+      "protect"
+    ],
+    "ISM-0507": [
+      "govern",
+      "key-management",
+      "encryption"
+    ],
+    "ISM-0516": [
+      "protect"
+    ],
+    "ISM-0518": [
+      "protect"
+    ],
+    "ISM-0520": [
+      "protect"
+    ],
+    "ISM-0521": [
+      "protect"
+    ],
+    "ISM-0529": [
+      "protect"
+    ],
+    "ISM-0530": [
+      "protect"
+    ],
+    "ISM-0534": [
+      "protect"
+    ],
+    "ISM-0535": [
+      "protect"
+    ],
+    "ISM-0536": [
+      "protect"
+    ],
+    "ISM-0546": [
+      "firewall",
+      "protect"
+    ],
+    "ISM-0547": [
+      "protect"
+    ],
+    "ISM-0548": [
+      "protect"
+    ],
+    "ISM-0549": [
+      "protect"
+    ],
+    "ISM-0551": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-0553": [
+      "authentication",
+      "access-control",
+      "protect"
+    ],
+    "ISM-0554": [
+      "authentication",
+      "access-control",
+      "protect"
+    ],
+    "ISM-0555": [
+      "authentication",
+      "access-control",
+      "protect"
+    ],
+    "ISM-0556": [
+      "endpoint",
+      "protect"
+    ],
+    "ISM-0558": [
+      "protect"
+    ],
+    "ISM-0559": [
+      "protect"
+    ],
+    "ISM-0565": [
+      "logging",
+      "protect",
+      "email"
+    ],
+    "ISM-0567": [
+      "protect",
+      "email"
+    ],
+    "ISM-0569": [
+      "protect",
+      "email"
+    ],
+    "ISM-0570": [
+      "backup",
+      "email",
+      "recover"
+    ],
+    "ISM-0571": [
+      "protect",
+      "email"
+    ],
+    "ISM-0572": [
+      "tls",
+      "encryption",
+      "protect",
+      "email"
+    ],
+    "ISM-0574": [
+      "protect",
+      "email"
+    ],
+    "ISM-0576": [
+      "respond",
+      "incident-response"
+    ],
+    "ISM-0580": [
+      "detect",
+      "logging"
+    ],
+    "ISM-0582": [
+      "windows",
+      "detect"
+    ],
+    "ISM-0585": [
+      "detect"
+    ],
+    "ISM-0588": [
+      "protect"
+    ],
+    "ISM-0589": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0590": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-0591": [
+      "protect"
+    ],
+    "ISM-0597": [
+      "protect"
+    ],
+    "ISM-0610": [
+      "protect"
+    ],
+    "ISM-0611": [
+      "protect"
+    ],
+    "ISM-0612": [
+      "govern"
+    ],
+    "ISM-0613": [
+      "protect"
+    ],
+    "ISM-0616": [
+      "protect"
+    ],
+    "ISM-0619": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-0622": [
+      "protect"
+    ],
+    "ISM-0626": [
+      "protect"
+    ],
+    "ISM-0628": [
+      "protect"
+    ],
+    "ISM-0629": [
+      "protect"
+    ],
+    "ISM-0631": [
+      "protect"
+    ],
+    "ISM-0634": [
+      "detect"
+    ],
+    "ISM-0635": [
+      "protect"
+    ],
+    "ISM-0637": [
+      "protect"
+    ],
+    "ISM-0639": [
+      "protect"
+    ],
+    "ISM-0643": [
+      "protect"
+    ],
+    "ISM-0645": [
+      "protect"
+    ],
+    "ISM-0649": [
+      "protect"
+    ],
+    "ISM-0651": [
+      "protect"
+    ],
+    "ISM-0652": [
+      "protect"
+    ],
+    "ISM-0657": [
+      "protect"
+    ],
+    "ISM-0659": [
+      "protect"
+    ],
+    "ISM-0660": [
+      "logging",
+      "protect"
+    ],
+    "ISM-0661": [
+      "protect"
+    ],
+    "ISM-0663": [
+      "govern"
+    ],
+    "ISM-0664": [
+      "protect"
+    ],
+    "ISM-0665": [
+      "protect"
+    ],
+    "ISM-0669": [
+      "protect"
+    ],
+    "ISM-0670": [
+      "detect"
+    ],
+    "ISM-0675": [
+      "protect"
+    ],
+    "ISM-0677": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0682": [
+      "protect"
+    ],
+    "ISM-0687": [
+      "protect"
+    ],
+    "ISM-0694": [
+      "endpoint",
+      "protect"
+    ],
+    "ISM-0701": [
+      "govern",
+      "mobile"
+    ],
+    "ISM-0702": [
+      "encryption",
+      "mobile",
+      "protect"
+    ],
+    "ISM-0705": [
+      "vpn",
+      "protect"
+    ],
+    "ISM-0714": [
+      "govern",
+      "ics"
+    ],
+    "ISM-0717": [
+      "govern"
+    ],
+    "ISM-0718": [
+      "govern"
+    ],
+    "ISM-0720": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-0724": [
+      "protect"
+    ],
+    "ISM-0725": [
+      "govern"
+    ],
+    "ISM-0726": [
+      "govern"
+    ],
+    "ISM-0731": [
+      "govern"
+    ],
+    "ISM-0732": [
+      "protect"
+    ],
+    "ISM-0733": [
+      "respond"
+    ],
+    "ISM-0734": [
+      "disaster-recovery",
+      "software-development",
+      "recover"
+    ],
+    "ISM-0735": [
+      "govern",
+      "software-development"
+    ],
+    "ISM-0810": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0813": [
+      "containers",
+      "protect"
+    ],
+    "ISM-0817": [
+      "protect"
+    ],
+    "ISM-0820": [
+      "protect"
+    ],
+    "ISM-0821": [
+      "protect"
+    ],
+    "ISM-0824": [
+      "protect"
+    ],
+    "ISM-0829": [
+      "protect"
+    ],
+    "ISM-0831": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0835": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-0836": [
+      "protect"
+    ],
+    "ISM-0839": [
+      "protect"
+    ],
+    "ISM-0840": [
+      "protect"
+    ],
+    "ISM-0843": [
+      "protect"
+    ],
+    "ISM-0846": [
+      "protect"
+    ],
+    "ISM-0853": [
+      "protect"
+    ],
+    "ISM-0854": [
+      "protect"
+    ],
+    "ISM-0861": [
+      "protect"
+    ],
+    "ISM-0863": [
+      "protect"
+    ],
+    "ISM-0864": [
+      "protect"
+    ],
+    "ISM-0866": [
+      "data-classification",
+      "mobile",
+      "protect"
+    ],
+    "ISM-0869": [
+      "data-storage",
+      "encryption",
+      "protect"
+    ],
+    "ISM-0870": [
+      "protect"
+    ],
+    "ISM-0871": [
+      "protect"
+    ],
+    "ISM-0874": [
+      "endpoint",
+      "vpn",
+      "protect"
+    ],
+    "ISM-0888": [
+      "govern"
+    ],
+    "ISM-0912": [
+      "govern",
+      "configuration-management"
+    ],
+    "ISM-0917": [
+      "backup",
+      "recover"
+    ],
+    "ISM-0926": [
+      "protect"
+    ],
+    "ISM-0931": [
+      "protect"
+    ],
+    "ISM-0938": [
+      "protect"
+    ],
+    "ISM-0947": [
+      "protect"
+    ],
+    "ISM-0955": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-0958": [
+      "protect"
+    ],
+    "ISM-0961": [
+      "protect"
+    ],
+    "ISM-0963": [
+      "protect"
+    ],
+    "ISM-0971": [
+      "govern",
+      "software-development"
+    ],
+    "ISM-0974": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-0988": [
+      "detect",
+      "logging"
+    ],
+    "ISM-0994": [
+      "protect"
+    ],
+    "ISM-0998": [
+      "protect"
+    ],
+    "ISM-0999": [
+      "protect"
+    ],
+    "ISM-1000": [
+      "protect"
+    ],
+    "ISM-1006": [
+      "protect"
+    ],
+    "ISM-1013": [
+      "protect"
+    ],
+    "ISM-1014": [
+      "protect"
+    ],
+    "ISM-1019": [
+      "protect"
+    ],
+    "ISM-1023": [
+      "protect"
+    ],
+    "ISM-1024": [
+      "protect"
+    ],
+    "ISM-1026": [
+      "protect"
+    ],
+    "ISM-1027": [
+      "protect",
+      "email"
+    ],
+    "ISM-1028": [
+      "detect"
+    ],
+    "ISM-1030": [
+      "detect",
+      "logging",
+      "firewall"
+    ],
+    "ISM-1034": [
+      "protect"
+    ],
+    "ISM-1036": [
+      "protect"
+    ],
+    "ISM-1037": [
+      "protect"
+    ],
+    "ISM-1053": [
+      "data-classification",
+      "encryption",
+      "protect"
+    ],
+    "ISM-1055": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1059": [
+      "protect"
+    ],
+    "ISM-1065": [
+      "protect"
+    ],
+    "ISM-1067": [
+      "protect"
+    ],
+    "ISM-1071": [
+      "protect"
+    ],
+    "ISM-1073": [
+      "protect"
+    ],
+    "ISM-1074": [
+      "containers",
+      "protect"
+    ],
+    "ISM-1076": [
+      "protect"
+    ],
+    "ISM-1078": [
+      "govern"
+    ],
+    "ISM-1079": [
+      "protect"
+    ],
+    "ISM-1080": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1082": [
+      "govern",
+      "mobile"
+    ],
+    "ISM-1083": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-1084": [
+      "protect"
+    ],
+    "ISM-1085": [
+      "data-classification",
+      "encryption",
+      "protect"
+    ],
+    "ISM-1088": [
+      "protect"
+    ],
+    "ISM-1089": [
+      "protect"
+    ],
+    "ISM-1091": [
+      "protect"
+    ],
+    "ISM-1095": [
+      "protect"
+    ],
+    "ISM-1096": [
+      "identify"
+    ],
+    "ISM-1098": [
+      "protect"
+    ],
+    "ISM-1100": [
+      "protect"
+    ],
+    "ISM-1101": [
+      "protect"
+    ],
+    "ISM-1102": [
+      "protect"
+    ],
+    "ISM-1103": [
+      "protect"
+    ],
+    "ISM-1105": [
+      "protect"
+    ],
+    "ISM-1107": [
+      "protect"
+    ],
+    "ISM-1109": [
+      "protect"
+    ],
+    "ISM-1111": [
+      "protect"
+    ],
+    "ISM-1112": [
+      "protect"
+    ],
+    "ISM-1114": [
+      "protect"
+    ],
+    "ISM-1115": [
+      "protect"
+    ],
+    "ISM-1116": [
+      "protect"
+    ],
+    "ISM-1119": [
+      "protect"
+    ],
+    "ISM-1122": [
+      "protect"
+    ],
+    "ISM-1123": [
+      "protect"
+    ],
+    "ISM-1130": [
+      "protect"
+    ],
+    "ISM-1133": [
+      "protect"
+    ],
+    "ISM-1137": [
+      "protect"
+    ],
+    "ISM-1139": [
+      "tls",
+      "protect"
+    ],
+    "ISM-1143": [
+      "patching",
+      "govern"
+    ],
+    "ISM-1145": [
+      "protect"
+    ],
+    "ISM-1146": [
+      "protect"
+    ],
+    "ISM-1151": [
+      "protect"
+    ],
+    "ISM-1157": [
+      "protect"
+    ],
+    "ISM-1158": [
+      "protect"
+    ],
+    "ISM-1160": [
+      "protect"
+    ],
+    "ISM-1163": [
+      "detect"
+    ],
+    "ISM-1164": [
+      "protect"
+    ],
+    "ISM-1171": [
+      "protect"
+    ],
+    "ISM-1173": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1175": [
+      "protect",
+      "email"
+    ],
+    "ISM-1178": [
+      "protect"
+    ],
+    "ISM-1181": [
+      "protect"
+    ],
+    "ISM-1182": [
+      "protect"
+    ],
+    "ISM-1183": [
+      "protect",
+      "email"
+    ],
+    "ISM-1186": [
+      "protect"
+    ],
+    "ISM-1187": [
+      "protect"
+    ],
+    "ISM-1192": [
+      "protect"
+    ],
+    "ISM-1195": [
+      "mdm",
+      "govern",
+      "mobile"
+    ],
+    "ISM-1196": [
+      "protect"
+    ],
+    "ISM-1198": [
+      "protect"
+    ],
+    "ISM-1199": [
+      "protect"
+    ],
+    "ISM-1200": [
+      "protect"
+    ],
+    "ISM-1203": [
+      "govern"
+    ],
+    "ISM-1211": [
+      "configuration-management",
+      "protect"
+    ],
+    "ISM-1213": [
+      "protect"
+    ],
+    "ISM-1216": [
+      "protect"
+    ],
+    "ISM-1217": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-1218": [
+      "protect"
+    ],
+    "ISM-1219": [
+      "protect"
+    ],
+    "ISM-1220": [
+      "protect"
+    ],
+    "ISM-1221": [
+      "protect"
+    ],
+    "ISM-1222": [
+      "protect"
+    ],
+    "ISM-1223": [
+      "protect"
+    ],
+    "ISM-1227": [
+      "protect"
+    ],
+    "ISM-1228": [
+      "respond"
+    ],
+    "ISM-1233": [
+      "protect"
+    ],
+    "ISM-1234": [
+      "protect",
+      "email"
+    ],
+    "ISM-1235": [
+      "protect",
+      "email"
+    ],
+    "ISM-1236": [
+      "protect"
+    ],
+    "ISM-1237": [
+      "protect"
+    ],
+    "ISM-1238": [
+      "software-development",
+      "identify"
+    ],
+    "ISM-1239": [
+      "web-app",
+      "govern",
+      "software-development"
+    ],
+    "ISM-1240": [
+      "protect"
+    ],
+    "ISM-1241": [
+      "protect"
+    ],
+    "ISM-1243": [
+      "database",
+      "identify"
+    ],
+    "ISM-1245": [
+      "logging",
+      "protect"
+    ],
+    "ISM-1246": [
+      "system-hardening",
+      "protect"
+    ],
+    "ISM-1247": [
+      "protect"
+    ],
+    "ISM-1249": [
+      "protect"
+    ],
+    "ISM-1250": [
+      "protect"
+    ],
+    "ISM-1255": [
+      "database",
+      "identify"
+    ],
+    "ISM-1256": [
+      "database",
+      "protect"
+    ],
+    "ISM-1260": [
+      "protect"
+    ],
+    "ISM-1263": [
+      "protect"
+    ],
+    "ISM-1268": [
+      "database",
+      "protect"
+    ],
+    "ISM-1269": [
+      "database",
+      "identify"
+    ],
+    "ISM-1270": [
+      "database",
+      "protect"
+    ],
+    "ISM-1271": [
+      "database",
+      "protect"
+    ],
+    "ISM-1272": [
+      "database",
+      "govern"
+    ],
+    "ISM-1273": [
+      "database",
+      "software-development",
+      "identify"
+    ],
+    "ISM-1274": [
+      "database",
+      "protect"
+    ],
+    "ISM-1275": [
+      "protect"
+    ],
+    "ISM-1276": [
+      "database",
+      "govern"
+    ],
+    "ISM-1277": [
+      "database",
+      "protect"
+    ],
+    "ISM-1278": [
+      "identify"
+    ],
+    "ISM-1284": [
+      "protect"
+    ],
+    "ISM-1286": [
+      "protect"
+    ],
+    "ISM-1287": [
+      "protect"
+    ],
+    "ISM-1288": [
+      "protect"
+    ],
+    "ISM-1289": [
+      "protect"
+    ],
+    "ISM-1290": [
+      "protect"
+    ],
+    "ISM-1293": [
+      "protect"
+    ],
+    "ISM-1294": [
+      "logging",
+      "protect"
+    ],
+    "ISM-1296": [
+      "physical-security",
+      "protect"
+    ],
+    "ISM-1297": [
+      "endpoint",
+      "protect"
+    ],
+    "ISM-1298": [
+      "protect"
+    ],
+    "ISM-1299": [
+      "messaging",
+      "backup",
+      "email",
+      "vpn",
+      "protect",
+      "encryption"
+    ],
+    "ISM-1300": [
+      "protect"
+    ],
+    "ISM-1304": [
+      "protect"
+    ],
+    "ISM-1311": [
+      "protect"
+    ],
+    "ISM-1312": [
+      "protect"
+    ],
+    "ISM-1314": [
+      "protect"
+    ],
+    "ISM-1315": [
+      "protect"
+    ],
+    "ISM-1316": [
+      "protect"
+    ],
+    "ISM-1317": [
+      "protect"
+    ],
+    "ISM-1318": [
+      "protect"
+    ],
+    "ISM-1319": [
+      "protect"
+    ],
+    "ISM-1320": [
+      "protect"
+    ],
+    "ISM-1321": [
+      "authentication",
+      "tls",
+      "protect"
+    ],
+    "ISM-1322": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1323": [
+      "protect"
+    ],
+    "ISM-1324": [
+      "pki",
+      "protect"
+    ],
+    "ISM-1327": [
+      "authentication",
+      "physical-security",
+      "encryption",
+      "protect"
+    ],
+    "ISM-1330": [
+      "protect"
+    ],
+    "ISM-1332": [
+      "protect"
+    ],
+    "ISM-1334": [
+      "protect"
+    ],
+    "ISM-1335": [
+      "govern"
+    ],
+    "ISM-1338": [
+      "protect"
+    ],
+    "ISM-1341": [
+      "protect"
+    ],
+    "ISM-1359": [
+      "govern"
+    ],
+    "ISM-1361": [
+      "govern"
+    ],
+    "ISM-1364": [
+      "protect"
+    ],
+    "ISM-1366": [
+      "patching",
+      "protect"
+    ],
+    "ISM-1369": [
+      "tls",
+      "encryption",
+      "protect"
+    ],
+    "ISM-1370": [
+      "tls",
+      "protect"
+    ],
+    "ISM-1372": [
+      "tls",
+      "protect"
+    ],
+    "ISM-1373": [
+      "tls",
+      "protect"
+    ],
+    "ISM-1374": [
+      "tls",
+      "protect"
+    ],
+    "ISM-1375": [
+      "authentication",
+      "tls",
+      "protect"
+    ],
+    "ISM-1380": [
+      "protect"
+    ],
+    "ISM-1385": [
+      "protect"
+    ],
+    "ISM-1386": [
+      "govern"
+    ],
+    "ISM-1387": [
+      "protect"
+    ],
+    "ISM-1389": [
+      "protect"
+    ],
+    "ISM-1392": [
+      "protect"
+    ],
+    "ISM-1395": [
+      "protect"
+    ],
+    "ISM-1400": [
+      "endpoint",
+      "data-classification",
+      "protect",
+      "pii"
+    ],
+    "ISM-1401": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1402": [
+      "database",
+      "authentication",
+      "data-storage",
+      "protect"
+    ],
+    "ISM-1403": [
+      "protect"
+    ],
+    "ISM-1404": [
+      "protect"
+    ],
+    "ISM-1405": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1406": [
+      "protect"
+    ],
+    "ISM-1407": [
+      "protect"
+    ],
+    "ISM-1408": [
+      "protect"
+    ],
+    "ISM-1409": [
+      "system-hardening",
+      "protect"
+    ],
+    "ISM-1412": [
+      "system-hardening",
+      "protect"
+    ],
+    "ISM-1416": [
+      "firewall",
+      "protect"
+    ],
+    "ISM-1417": [
+      "detect"
+    ],
+    "ISM-1418": [
+      "access-control",
+      "protect"
+    ],
+    "ISM-1419": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-1420": [
+      "protect"
+    ],
+    "ISM-1422": [
+      "protect"
+    ],
+    "ISM-1424": [
+      "web-server",
+      "govern"
+    ],
+    "ISM-1427": [
+      "protect"
+    ],
+    "ISM-1428": [
+      "protect"
+    ],
+    "ISM-1429": [
+      "protect"
+    ],
+    "ISM-1430": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1431": [
+      "cloud",
+      "protect"
+    ],
+    "ISM-1432": [
+      "protect"
+    ],
+    "ISM-1436": [
+      "protect"
+    ],
+    "ISM-1437": [
+      "cloud",
+      "protect"
+    ],
+    "ISM-1438": [
+      "recover"
+    ],
+    "ISM-1439": [
+      "govern"
+    ],
+    "ISM-1446": [
+      "protect"
+    ],
+    "ISM-1448": [
+      "tls",
+      "protect"
+    ],
+    "ISM-1449": [
+      "authentication",
+      "encryption",
+      "protect"
+    ],
+    "ISM-1450": [
+      "protect"
+    ],
+    "ISM-1451": [
+      "protect"
+    ],
+    "ISM-1452": [
+      "govern"
+    ],
+    "ISM-1453": [
+      "tls",
+      "protect"
+    ],
+    "ISM-1454": [
+      "tls",
+      "encryption",
+      "protect"
+    ],
+    "ISM-1457": [
+      "protect"
+    ],
+    "ISM-1460": [
+      "protect"
+    ],
+    "ISM-1461": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-1467": [
+      "protect",
+      "email"
+    ],
+    "ISM-1470": [
+      "protect",
+      "email"
+    ],
+    "ISM-1471": [
+      "protect"
+    ],
+    "ISM-1478": [
+      "govern"
+    ],
+    "ISM-1479": [
+      "protect"
+    ],
+    "ISM-1480": [
+      "protect"
+    ],
+    "ISM-1482": [
+      "endpoint",
+      "data-classification",
+      "mobile",
+      "protect",
+      "pii"
+    ],
+    "ISM-1483": [
+      "protect"
+    ],
+    "ISM-1485": [
+      "protect"
+    ],
+    "ISM-1486": [
+      "protect"
+    ],
+    "ISM-1487": [
+      "protect"
+    ],
+    "ISM-1488": [
+      "protect"
+    ],
+    "ISM-1489": [
+      "protect"
+    ],
+    "ISM-1490": [
+      "protect"
+    ],
+    "ISM-1491": [
+      "protect"
+    ],
+    "ISM-1492": [
+      "protect"
+    ],
+    "ISM-1493": [
+      "identify"
+    ],
+    "ISM-1501": [
+      "protect"
+    ],
+    "ISM-1502": [
+      "protect",
+      "email"
+    ],
+    "ISM-1504": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1505": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1506": [
+      "protect"
+    ],
+    "ISM-1507": [
+      "protect",
+      "privileged-access"
+    ],
+    "ISM-1508": [
+      "protect",
+      "privileged-access"
+    ],
+    "ISM-1509": [
+      "detect",
+      "privileged-access"
+    ],
+    "ISM-1510": [
+      "govern"
+    ],
+    "ISM-1511": [
+      "backup",
+      "disaster-recovery",
+      "recover"
+    ],
+    "ISM-1515": [
+      "backup",
+      "disaster-recovery",
+      "recover"
+    ],
+    "ISM-1517": [
+      "protect"
+    ],
+    "ISM-1520": [
+      "data-classification",
+      "govern"
+    ],
+    "ISM-1521": [
+      "protect"
+    ],
+    "ISM-1522": [
+      "protect"
+    ],
+    "ISM-1523": [
+      "govern"
+    ],
+    "ISM-1524": [
+      "protect"
+    ],
+    "ISM-1525": [
+      "identify"
+    ],
+    "ISM-1526": [
+      "monitoring",
+      "identify"
+    ],
+    "ISM-1528": [
+      "protect"
+    ],
+    "ISM-1529": [
+      "protect"
+    ],
+    "ISM-1530": [
+      "encryption",
+      "data-classification",
+      "containers",
+      "protect"
+    ],
+    "ISM-1532": [
+      "protect"
+    ],
+    "ISM-1533": [
+      "mdm",
+      "govern",
+      "mobile"
+    ],
+    "ISM-1534": [
+      "protect"
+    ],
+    "ISM-1535": [
+      "govern"
+    ],
+    "ISM-1536": [
+      "detect"
+    ],
+    "ISM-1537": [
+      "database",
+      "detect"
+    ],
+    "ISM-1540": [
+      "protect"
+    ],
+    "ISM-1542": [
+      "protect"
+    ],
+    "ISM-1543": [
+      "protect"
+    ],
+    "ISM-1544": [
+      "protect"
+    ],
+    "ISM-1546": [
+      "protect"
+    ],
+    "ISM-1547": [
+      "govern",
+      "backup"
+    ],
+    "ISM-1548": [
+      "govern"
+    ],
+    "ISM-1549": [
+      "govern"
+    ],
+    "ISM-1550": [
+      "govern"
+    ],
+    "ISM-1551": [
+      "govern"
+    ],
+    "ISM-1552": [
+      "web-app",
+      "protect"
+    ],
+    "ISM-1553": [
+      "tls",
+      "protect"
+    ],
+    "ISM-1554": [
+      "protect"
+    ],
+    "ISM-1555": [
+      "backup",
+      "recover"
+    ],
+    "ISM-1556": [
+      "monitoring",
+      "protect"
+    ],
+    "ISM-1557": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1558": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1559": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1560": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1561": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1562": [
+      "protect"
+    ],
+    "ISM-1563": [
+      "respond"
+    ],
+    "ISM-1564": [
+      "protect"
+    ],
+    "ISM-1565": [
+      "govern"
+    ],
+    "ISM-1566": [
+      "protect"
+    ],
+    "ISM-1567": [
+      "govern"
+    ],
+    "ISM-1568": [
+      "protect"
+    ],
+    "ISM-1569": [
+      "govern"
+    ],
+    "ISM-1570": [
+      "cloud",
+      "protect"
+    ],
+    "ISM-1571": [
+      "govern"
+    ],
+    "ISM-1572": [
+      "protect"
+    ],
+    "ISM-1573": [
+      "logging",
+      "protect"
+    ],
+    "ISM-1574": [
+      "backup",
+      "data-storage",
+      "recover"
+    ],
+    "ISM-1575": [
+      "protect"
+    ],
+    "ISM-1576": [
+      "protect"
+    ],
+    "ISM-1577": [
+      "protect"
+    ],
+    "ISM-1579": [
+      "cloud",
+      "protect"
+    ],
+    "ISM-1580": [
+      "protect"
+    ],
+    "ISM-1581": [
+      "detect"
+    ],
+    "ISM-1582": [
+      "protect"
+    ],
+    "ISM-1583": [
+      "protect"
+    ],
+    "ISM-1584": [
+      "protect"
+    ],
+    "ISM-1585": [
+      "protect"
+    ],
+    "ISM-1586": [
+      "logging",
+      "protect"
+    ],
+    "ISM-1587": [
+      "protect"
+    ],
+    "ISM-1588": [
+      "govern"
+    ],
+    "ISM-1589": [
+      "protect",
+      "email"
+    ],
+    "ISM-1590": [
+      "protect"
+    ],
+    "ISM-1591": [
+      "protect"
+    ],
+    "ISM-1592": [
+      "protect"
+    ],
+    "ISM-1593": [
+      "protect"
+    ],
+    "ISM-1594": [
+      "protect"
+    ],
+    "ISM-1595": [
+      "protect"
+    ],
+    "ISM-1596": [
+      "protect"
+    ],
+    "ISM-1597": [
+      "protect"
+    ],
+    "ISM-1598": [
+      "protect"
+    ],
+    "ISM-1599": [
+      "data-classification",
+      "protect"
+    ],
+    "ISM-1600": [
+      "protect"
+    ],
+    "ISM-1601": [
+      "protect"
+    ],
+    "ISM-1602": [
+      "protect"
+    ],
+    "ISM-1603": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1604": [
+      "protect"
+    ],
+    "ISM-1605": [
+      "protect"
+    ],
+    "ISM-1606": [
+      "protect"
+    ],
+    "ISM-1607": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1608": [
+      "protect"
+    ],
+    "ISM-1609": [
+      "protect"
+    ],
+    "ISM-1610": [
+      "protect"
+    ],
+    "ISM-1611": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1612": [
+      "protect"
+    ],
+    "ISM-1613": [
+      "protect"
+    ],
+    "ISM-1614": [
+      "protect"
+    ],
+    "ISM-1615": [
+      "protect"
+    ],
+    "ISM-1616": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-1617": [
+      "govern"
+    ],
+    "ISM-1618": [
+      "respond"
+    ],
+    "ISM-1619": [
+      "protect"
+    ],
+    "ISM-1620": [
+      "protect"
+    ],
+    "ISM-1621": [
+      "protect"
+    ],
+    "ISM-1622": [
+      "protect"
+    ],
+    "ISM-1623": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1624": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1625": [
+      "identify"
+    ],
+    "ISM-1626": [
+      "software-development",
+      "identify"
+    ],
+    "ISM-1627": [
+      "protect"
+    ],
+    "ISM-1628": [
+      "protect"
+    ],
+    "ISM-1629": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1631": [
+      "protect"
+    ],
+    "ISM-1632": [
+      "protect"
+    ],
+    "ISM-1633": [
+      "protect"
+    ],
+    "ISM-1634": [
+      "protect"
+    ],
+    "ISM-1635": [
+      "protect"
+    ],
+    "ISM-1636": [
+      "protect"
+    ],
+    "ISM-1637": [
+      "cloud",
+      "identify"
+    ],
+    "ISM-1638": [
+      "data-classification",
+      "cloud",
+      "identify"
+    ],
+    "ISM-1639": [
+      "govern"
+    ],
+    "ISM-1640": [
+      "protect"
+    ],
+    "ISM-1641": [
+      "protect"
+    ],
+    "ISM-1642": [
+      "protect"
+    ],
+    "ISM-1643": [
+      "patching",
+      "protect"
+    ],
+    "ISM-1644": [
+      "protect"
+    ],
+    "ISM-1645": [
+      "protect"
+    ],
+    "ISM-1646": [
+      "protect"
+    ],
+    "ISM-1647": [
+      "protect",
+      "privileged-access"
+    ],
+    "ISM-1648": [
+      "protect",
+      "privileged-access"
+    ],
+    "ISM-1649": [
+      "protect"
+    ],
+    "ISM-1650": [
+      "detect"
+    ],
+    "ISM-1654": [
+      "protect"
+    ],
+    "ISM-1655": [
+      "govern"
+    ],
+    "ISM-1656": [
+      "protect"
+    ],
+    "ISM-1657": [
+      "protect"
+    ],
+    "ISM-1658": [
+      "protect"
+    ],
+    "ISM-1659": [
+      "protect"
+    ],
+    "ISM-1660": [
+      "protect"
+    ],
+    "ISM-1667": [
+      "protect"
+    ],
+    "ISM-1668": [
+      "protect"
+    ],
+    "ISM-1669": [
+      "protect"
+    ],
+    "ISM-1670": [
+      "protect"
+    ],
+    "ISM-1671": [
+      "protect"
+    ],
+    "ISM-1672": [
+      "protect"
+    ],
+    "ISM-1673": [
+      "api",
+      "protect"
+    ],
+    "ISM-1674": [
+      "protect"
+    ],
+    "ISM-1675": [
+      "protect"
+    ],
+    "ISM-1676": [
+      "protect"
+    ],
+    "ISM-1679": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1680": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1681": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1682": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1683": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1685": [
+      "protect"
+    ],
+    "ISM-1686": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1687": [
+      "protect"
+    ],
+    "ISM-1688": [
+      "protect"
+    ],
+    "ISM-1689": [
+      "protect"
+    ],
+    "ISM-1690": [
+      "protect"
+    ],
+    "ISM-1691": [
+      "protect",
+      "email"
+    ],
+    "ISM-1692": [
+      "protect",
+      "email"
+    ],
+    "ISM-1693": [
+      "protect",
+      "email"
+    ],
+    "ISM-1694": [
+      "protect"
+    ],
+    "ISM-1695": [
+      "protect"
+    ],
+    "ISM-1696": [
+      "protect"
+    ],
+    "ISM-1697": [
+      "protect"
+    ],
+    "ISM-1698": [
+      "protect"
+    ],
+    "ISM-1699": [
+      "protect",
+      "email"
+    ],
+    "ISM-1700": [
+      "protect",
+      "email"
+    ],
+    "ISM-1701": [
+      "protect"
+    ],
+    "ISM-1702": [
+      "protect"
+    ],
+    "ISM-1703": [
+      "protect"
+    ],
+    "ISM-1704": [
+      "protect",
+      "email"
+    ],
+    "ISM-1705": [
+      "backup",
+      "recover"
+    ],
+    "ISM-1706": [
+      "backup",
+      "recover"
+    ],
+    "ISM-1707": [
+      "protect",
+      "backup"
+    ],
+    "ISM-1708": [
+      "protect",
+      "backup"
+    ],
+    "ISM-1710": [
+      "protect"
+    ],
+    "ISM-1711": [
+      "tls",
+      "protect"
+    ],
+    "ISM-1712": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1713": [
+      "identify"
+    ],
+    "ISM-1717": [
+      "protect"
+    ],
+    "ISM-1718": [
+      "protect"
+    ],
+    "ISM-1719": [
+      "protect"
+    ],
+    "ISM-1720": [
+      "protect"
+    ],
+    "ISM-1721": [
+      "protect"
+    ],
+    "ISM-1722": [
+      "protect"
+    ],
+    "ISM-1723": [
+      "protect"
+    ],
+    "ISM-1724": [
+      "protect"
+    ],
+    "ISM-1725": [
+      "protect"
+    ],
+    "ISM-1726": [
+      "protect"
+    ],
+    "ISM-1727": [
+      "protect"
+    ],
+    "ISM-1728": [
+      "protect"
+    ],
+    "ISM-1729": [
+      "protect"
+    ],
+    "ISM-1730": [
+      "protect"
+    ],
+    "ISM-1731": [
+      "respond"
+    ],
+    "ISM-1732": [
+      "protect"
+    ],
+    "ISM-1735": [
+      "protect"
+    ],
+    "ISM-1736": [
+      "identify"
+    ],
+    "ISM-1737": [
+      "data-classification",
+      "identify"
+    ],
+    "ISM-1738": [
+      "govern"
+    ],
+    "ISM-1739": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-1740": [
+      "protect",
+      "email"
+    ],
+    "ISM-1741": [
+      "govern"
+    ],
+    "ISM-1742": [
+      "protect"
+    ],
+    "ISM-1743": [
+      "protect"
+    ],
+    "ISM-1745": [
+      "protect"
+    ],
+    "ISM-1746": [
+      "protect"
+    ],
+    "ISM-1748": [
+      "protect",
+      "email"
+    ],
+    "ISM-1749": [
+      "protect"
+    ],
+    "ISM-1750": [
+      "protect"
+    ],
+    "ISM-1751": [
+      "protect"
+    ],
+    "ISM-1752": [
+      "protect"
+    ],
+    "ISM-1753": [
+      "protect"
+    ],
+    "ISM-1754": [
+      "protect"
+    ],
+    "ISM-1755": [
+      "govern"
+    ],
+    "ISM-1756": [
+      "govern"
+    ],
+    "ISM-1759": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1761": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1762": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1763": [
+      "protect"
+    ],
+    "ISM-1764": [
+      "protect"
+    ],
+    "ISM-1765": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1766": [
+      "protect"
+    ],
+    "ISM-1767": [
+      "protect"
+    ],
+    "ISM-1768": [
+      "protect"
+    ],
+    "ISM-1769": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1770": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1771": [
+      "protect"
+    ],
+    "ISM-1772": [
+      "protect"
+    ],
+    "ISM-1773": [
+      "protect"
+    ],
+    "ISM-1774": [
+      "protect"
+    ],
+    "ISM-1778": [
+      "govern"
+    ],
+    "ISM-1779": [
+      "govern"
+    ],
+    "ISM-1780": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-1781": [
+      "protect"
+    ],
+    "ISM-1782": [
+      "protect"
+    ],
+    "ISM-1783": [
+      "protect"
+    ],
+    "ISM-1784": [
+      "respond",
+      "incident-response"
+    ],
+    "ISM-1785": [
+      "govern"
+    ],
+    "ISM-1786": [
+      "protect"
+    ],
+    "ISM-1787": [
+      "protect"
+    ],
+    "ISM-1788": [
+      "protect"
+    ],
+    "ISM-1789": [
+      "protect"
+    ],
+    "ISM-1790": [
+      "protect"
+    ],
+    "ISM-1791": [
+      "protect"
+    ],
+    "ISM-1792": [
+      "protect"
+    ],
+    "ISM-1793": [
+      "protect"
+    ],
+    "ISM-1794": [
+      "protect"
+    ],
+    "ISM-1795": [
+      "protect"
+    ],
+    "ISM-1796": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-1797": [
+      "encryption",
+      "software-development",
+      "protect"
+    ],
+    "ISM-1798": [
+      "system-hardening",
+      "software-development",
+      "protect"
+    ],
+    "ISM-1799": [
+      "protect"
+    ],
+    "ISM-1800": [
+      "protect"
+    ],
+    "ISM-1801": [
+      "protect"
+    ],
+    "ISM-1802": [
+      "respond"
+    ],
+    "ISM-1803": [
+      "respond",
+      "incident-response"
+    ],
+    "ISM-1804": [
+      "protect"
+    ],
+    "ISM-1805": [
+      "protect"
+    ],
+    "ISM-1806": [
+      "protect"
+    ],
+    "ISM-1807": [
+      "vulnerability-management",
+      "detect"
+    ],
+    "ISM-1808": [
+      "database",
+      "vulnerability-management",
+      "identify"
+    ],
+    "ISM-1809": [
+      "protect"
+    ],
+    "ISM-1810": [
+      "backup",
+      "recover"
+    ],
+    "ISM-1811": [
+      "backup",
+      "recover"
+    ],
+    "ISM-1812": [
+      "backup",
+      "recover"
+    ],
+    "ISM-1813": [
+      "backup",
+      "recover"
+    ],
+    "ISM-1814": [
+      "protect",
+      "backup"
+    ],
+    "ISM-1815": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1816": [
+      "protect"
+    ],
+    "ISM-1817": [
+      "authentication",
+      "access-control",
+      "protect"
+    ],
+    "ISM-1818": [
+      "authentication",
+      "access-control",
+      "protect"
+    ],
+    "ISM-1819": [
+      "respond",
+      "incident-response"
+    ],
+    "ISM-1820": [
+      "protect"
+    ],
+    "ISM-1821": [
+      "protect"
+    ],
+    "ISM-1822": [
+      "protect"
+    ],
+    "ISM-1823": [
+      "protect"
+    ],
+    "ISM-1824": [
+      "protect"
+    ],
+    "ISM-1825": [
+      "protect"
+    ],
+    "ISM-1826": [
+      "protect"
+    ],
+    "ISM-1827": [
+      "active-directory",
+      "protect"
+    ],
+    "ISM-1828": [
+      "active-directory",
+      "protect"
+    ],
+    "ISM-1829": [
+      "protect"
+    ],
+    "ISM-1830": [
+      "pki",
+      "detect",
+      "active-directory"
+    ],
+    "ISM-1832": [
+      "protect"
+    ],
+    "ISM-1833": [
+      "protect"
+    ],
+    "ISM-1834": [
+      "protect"
+    ],
+    "ISM-1835": [
+      "protect"
+    ],
+    "ISM-1836": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1837": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1838": [
+      "protect"
+    ],
+    "ISM-1839": [
+      "protect"
+    ],
+    "ISM-1840": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1841": [
+      "protect"
+    ],
+    "ISM-1842": [
+      "protect"
+    ],
+    "ISM-1843": [
+      "govern"
+    ],
+    "ISM-1844": [
+      "active-directory",
+      "protect"
+    ],
+    "ISM-1845": [
+      "protect"
+    ],
+    "ISM-1846": [
+      "protect"
+    ],
+    "ISM-1847": [
+      "active-directory",
+      "protect"
+    ],
+    "ISM-1848": [
+      "protect"
+    ],
+    "ISM-1849": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-1850": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-1851": [
+      "api",
+      "software-development",
+      "protect"
+    ],
+    "ISM-1852": [
+      "protect"
+    ],
+    "ISM-1854": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1855": [
+      "detect"
+    ],
+    "ISM-1858": [
+      "system-hardening",
+      "protect"
+    ],
+    "ISM-1859": [
+      "system-hardening",
+      "protect"
+    ],
+    "ISM-1860": [
+      "system-hardening",
+      "protect"
+    ],
+    "ISM-1861": [
+      "protect"
+    ],
+    "ISM-1862": [
+      "govern"
+    ],
+    "ISM-1863": [
+      "govern"
+    ],
+    "ISM-1864": [
+      "govern"
+    ],
+    "ISM-1865": [
+      "govern"
+    ],
+    "ISM-1866": [
+      "endpoint",
+      "protect",
+      "data-classification"
+    ],
+    "ISM-1867": [
+      "mobile",
+      "protect"
+    ],
+    "ISM-1868": [
+      "protect"
+    ],
+    "ISM-1869": [
+      "identify"
+    ],
+    "ISM-1870": [
+      "identify",
+      "email"
+    ],
+    "ISM-1871": [
+      "identify",
+      "email"
+    ],
+    "ISM-1872": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1873": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1874": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1875": [
+      "protect"
+    ],
+    "ISM-1876": [
+      "protect"
+    ],
+    "ISM-1877": [
+      "protect"
+    ],
+    "ISM-1878": [
+      "protect"
+    ],
+    "ISM-1879": [
+      "protect"
+    ],
+    "ISM-1880": [
+      "respond"
+    ],
+    "ISM-1881": [
+      "respond"
+    ],
+    "ISM-1882": [
+      "protect"
+    ],
+    "ISM-1883": [
+      "protect"
+    ],
+    "ISM-1884": [
+      "govern"
+    ],
+    "ISM-1885": [
+      "protect"
+    ],
+    "ISM-1886": [
+      "protect"
+    ],
+    "ISM-1887": [
+      "protect"
+    ],
+    "ISM-1888": [
+      "protect"
+    ],
+    "ISM-1889": [
+      "detect"
+    ],
+    "ISM-1890": [
+      "protect"
+    ],
+    "ISM-1891": [
+      "protect"
+    ],
+    "ISM-1892": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1893": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1894": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1895": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1896": [
+      "protect"
+    ],
+    "ISM-1897": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1898": [
+      "protect"
+    ],
+    "ISM-1899": [
+      "protect"
+    ],
+    "ISM-1900": [
+      "protect"
+    ],
+    "ISM-1901": [
+      "protect",
+      "email"
+    ],
+    "ISM-1902": [
+      "protect"
+    ],
+    "ISM-1903": [
+      "protect"
+    ],
+    "ISM-1904": [
+      "protect"
+    ],
+    "ISM-1905": [
+      "protect"
+    ],
+    "ISM-1906": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1907": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1908": [
+      "protect"
+    ],
+    "ISM-1909": [
+      "identify"
+    ],
+    "ISM-1910": [
+      "api",
+      "protect"
+    ],
+    "ISM-1911": [
+      "detect"
+    ],
+    "ISM-1912": [
+      "protect"
+    ],
+    "ISM-1913": [
+      "protect"
+    ],
+    "ISM-1914": [
+      "protect"
+    ],
+    "ISM-1915": [
+      "protect"
+    ],
+    "ISM-1916": [
+      "protect"
+    ],
+    "ISM-1917": [
+      "encryption",
+      "software-development",
+      "protect"
+    ],
+    "ISM-1918": [
+      "govern"
+    ],
+    "ISM-1919": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1920": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-1921": [
+      "protect"
+    ],
+    "ISM-1922": [
+      "govern",
+      "software-development"
+    ],
+    "ISM-1924": [
+      "protect"
+    ],
+    "ISM-1926": [
+      "pki",
+      "active-directory",
+      "protect"
+    ],
+    "ISM-1927": [
+      "pki",
+      "active-directory",
+      "protect"
+    ],
+    "ISM-1928": [
+      "pki",
+      "active-directory",
+      "protect",
+      "backup"
+    ],
+    "ISM-1929": [
+      "active-directory",
+      "protect",
+      "ldap"
+    ],
+    "ISM-1930": [
+      "protect"
+    ],
+    "ISM-1931": [
+      "protect"
+    ],
+    "ISM-1932": [
+      "protect"
+    ],
+    "ISM-1933": [
+      "protect"
+    ],
+    "ISM-1934": [
+      "govern"
+    ],
+    "ISM-1935": [
+      "protect"
+    ],
+    "ISM-1936": [
+      "protect"
+    ],
+    "ISM-1937": [
+      "protect"
+    ],
+    "ISM-1938": [
+      "active-directory",
+      "protect"
+    ],
+    "ISM-1939": [
+      "protect"
+    ],
+    "ISM-1940": [
+      "protect"
+    ],
+    "ISM-1941": [
+      "protect"
+    ],
+    "ISM-1942": [
+      "protect"
+    ],
+    "ISM-1943": [
+      "protect"
+    ],
+    "ISM-1944": [
+      "pki",
+      "active-directory",
+      "protect"
+    ],
+    "ISM-1945": [
+      "protect"
+    ],
+    "ISM-1946": [
+      "protect"
+    ],
+    "ISM-1947": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1948": [
+      "pki",
+      "protect"
+    ],
+    "ISM-1949": [
+      "active-directory",
+      "protect"
+    ],
+    "ISM-1950": [
+      "active-directory",
+      "protect"
+    ],
+    "ISM-1951": [
+      "protect"
+    ],
+    "ISM-1952": [
+      "active-directory",
+      "protect"
+    ],
+    "ISM-1953": [
+      "protect"
+    ],
+    "ISM-1954": [
+      "protect"
+    ],
+    "ISM-1955": [
+      "protect"
+    ],
+    "ISM-1956": [
+      "active-directory",
+      "encryption",
+      "protect"
+    ],
+    "ISM-1957": [
+      "pki",
+      "active-directory",
+      "protect"
+    ],
+    "ISM-1958": [
+      "protect"
+    ],
+    "ISM-1959": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1960": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1961": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1962": [
+      "protect"
+    ],
+    "ISM-1963": [
+      "detect"
+    ],
+    "ISM-1964": [
+      "detect"
+    ],
+    "ISM-1965": [
+      "protect"
+    ],
+    "ISM-1966": [
+      "identify"
+    ],
+    "ISM-1967": [
+      "protect"
+    ],
+    "ISM-1968": [
+      "access-control",
+      "protect"
+    ],
+    "ISM-1969": [
+      "protect"
+    ],
+    "ISM-1970": [
+      "respond",
+      "incident-response"
+    ],
+    "ISM-1971": [
+      "protect"
+    ],
+    "ISM-1972": [
+      "cloud",
+      "protect"
+    ],
+    "ISM-1973": [
+      "protect"
+    ],
+    "ISM-1974": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1975": [
+      "encryption",
+      "containers",
+      "protect"
+    ],
+    "ISM-1976": [
+      "detect",
+      "macos"
+    ],
+    "ISM-1977": [
+      "detect"
+    ],
+    "ISM-1978": [
+      "detect"
+    ],
+    "ISM-1979": [
+      "detect"
+    ],
+    "ISM-1980": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-1981": [
+      "protect"
+    ],
+    "ISM-1982": [
+      "protect"
+    ],
+    "ISM-1983": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1984": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1985": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1986": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1987": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1988": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1989": [
+      "detect",
+      "logging"
+    ],
+    "ISM-1990": [
+      "protect"
+    ],
+    "ISM-1991": [
+      "protect"
+    ],
+    "ISM-1992": [
+      "protect"
+    ],
+    "ISM-1993": [
+      "protect"
+    ],
+    "ISM-1994": [
+      "protect"
+    ],
+    "ISM-1995": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1996": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-1997": [
+      "govern"
+    ],
+    "ISM-1998": [
+      "govern"
+    ],
+    "ISM-1999": [
+      "govern"
+    ],
+    "ISM-2000": [
+      "govern"
+    ],
+    "ISM-2001": [
+      "govern"
+    ],
+    "ISM-2002": [
+      "govern"
+    ],
+    "ISM-2003": [
+      "govern"
+    ],
+    "ISM-2004": [
+      "govern",
+      "software-development"
+    ],
+    "ISM-2005": [
+      "govern"
+    ],
+    "ISM-2006": [
+      "govern"
+    ],
+    "ISM-2007": [
+      "protect"
+    ],
+    "ISM-2008": [
+      "protect"
+    ],
+    "ISM-2009": [
+      "protect"
+    ],
+    "ISM-2010": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-2011": [
+      "authentication",
+      "mfa",
+      "protect"
+    ],
+    "ISM-2012": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-2013": [
+      "authentication",
+      "access-control",
+      "protect"
+    ],
+    "ISM-2014": [
+      "authentication",
+      "access-control",
+      "protect"
+    ],
+    "ISM-2015": [
+      "api",
+      "protect"
+    ],
+    "ISM-2016": [
+      "protect"
+    ],
+    "ISM-2017": [
+      "protect"
+    ],
+    "ISM-2018": [
+      "protect"
+    ],
+    "ISM-2019": [
+      "protect"
+    ],
+    "ISM-2020": [
+      "protect"
+    ],
+    "ISM-2021": [
+      "protect"
+    ],
+    "ISM-2022": [
+      "govern"
+    ],
+    "ISM-2023": [
+      "protect"
+    ],
+    "ISM-2024": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-2025": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-2026": [
+      "protect"
+    ],
+    "ISM-2027": [
+      "protect"
+    ],
+    "ISM-2028": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-2029": [
+      "protect"
+    ],
+    "ISM-2030": [
+      "protect"
+    ],
+    "ISM-2031": [
+      "protect"
+    ],
+    "ISM-2032": [
+      "protect"
+    ],
+    "ISM-2033": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-2034": [
+      "govern",
+      "software-development"
+    ],
+    "ISM-2035": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-2036": [
+      "protect"
+    ],
+    "ISM-2037": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-2038": [
+      "identify"
+    ],
+    "ISM-2039": [
+      "govern",
+      "software-development"
+    ],
+    "ISM-2040": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-2041": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-2042": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-2043": [
+      "protect"
+    ],
+    "ISM-2044": [
+      "protect"
+    ],
+    "ISM-2045": [
+      "protect"
+    ],
+    "ISM-2046": [
+      "protect"
+    ],
+    "ISM-2047": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-2048": [
+      "protect"
+    ],
+    "ISM-2049": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-2050": [
+      "protect"
+    ],
+    "ISM-2051": [
+      "detect",
+      "logging"
+    ],
+    "ISM-2052": [
+      "detect",
+      "logging"
+    ],
+    "ISM-2053": [
+      "govern"
+    ],
+    "ISM-2054": [
+      "software-development",
+      "protect"
+    ],
+    "ISM-2055": [
+      "govern",
+      "software-development"
+    ],
+    "ISM-2056": [
+      "protect"
+    ],
+    "ISM-2057": [
+      "protect"
+    ],
+    "ISM-2058": [
+      "protect"
+    ],
+    "ISM-2059": [
+      "detect",
+      "data-storage"
+    ],
+    "ISM-2060": [
+      "protect"
+    ],
+    "ISM-2061": [
+      "govern"
+    ],
+    "ISM-2062": [
+      "protect"
+    ],
+    "ISM-2063": [
+      "web-app",
+      "protect"
+    ],
+    "ISM-2064": [
+      "web-app",
+      "protect"
+    ],
+    "ISM-2065": [
+      "web-app",
+      "protect"
+    ],
+    "ISM-2066": [
+      "web-app",
+      "protect"
+    ],
+    "ISM-2067": [
+      "protect"
+    ],
+    "ISM-2068": [
+      "protect"
+    ],
+    "ISM-2069": [
+      "protect"
+    ],
+    "ISM-2070": [
+      "protect"
+    ],
+    "ISM-2071": [
+      "protect"
+    ],
+    "ISM-2072": [
+      "protect"
+    ],
+    "ISM-2073": [
+      "protect"
+    ],
+    "ISM-2074": [
+      "govern"
+    ],
+    "ISM-2075": [
+      "protect"
+    ],
+    "ISM-2076": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-2077": [
+      "authentication",
+      "protect",
+      "email"
+    ],
+    "ISM-2078": [
+      "protect"
+    ],
+    "ISM-2079": [
+      "protect"
+    ],
+    "ISM-2080": [
+      "authentication",
+      "protect"
+    ],
+    "ISM-2081": [
+      "protect"
+    ],
+    "ISM-2082": [
+      "encryption",
+      "software-development",
+      "protect"
+    ],
+    "ISM-2083": [
+      "encryption",
+      "protect"
+    ],
+    "ISM-2084": [
+      "protect"
+    ],
+    "ISM-2085": [
+      "api",
+      "protect"
+    ],
+    "ISM-2086": [
+      "protect"
+    ],
+    "ISM-2087": [
+      "govern"
+    ],
+    "ISM-2088": [
+      "govern"
+    ],
+    "ISM-2089": [
+      "protect"
+    ],
+    "ISM-2090": [
+      "protect"
+    ],
+    "ISM-2091": [
+      "protect"
+    ],
+    "ISM-2092": [
+      "access-control",
+      "protect"
+    ],
+    "ISM-2093": [
+      "protect"
+    ],
+    "ISM-2094": [
+      "protect"
+    ]
+  }
+}
